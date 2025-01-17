@@ -10,6 +10,12 @@ This repository contains a collection of Figma design files for various projects
 ### 2. [**Material Design**](https://github.com/nyunja/atomic-design/blob/main/Paul_John_MaterialDesign_01162025_V1.fig)
    - A design project focused on material design and how UI elemts are layered on a page using Lyft as an case study.
 
+### 3. [**Design System Library**](https://github.com/nyunja/atomic-design/blob/main/Paul_John_DesignSystemLIbrary_01162025_V1.fig)
+   - A design project focused on recreating elemnts from the easyjet website with atomic structure.
+
+### 4. [**Library For Climbing addicts**](https://github.com/nyunja/atomic-design/blob/main/Paul_John_DesignSystemLIbrary_01162025_V1.fig)
+   - A design project focused on creating a moodbard and a UI componnents library to rebrand a climbing group website.
+
 ## Usage
 
 To view or edit these `.fig` files:
