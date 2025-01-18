@@ -13,8 +13,11 @@ This repository contains a collection of Figma design files for various projects
 ### 3. [**Design System Library**](https://github.com/nyunja/atomic-design/blob/main/Paul_John_DesignSystemLIbrary_01162025_V1.fig)
    - A design project focused on recreating elemnts from the easyjet website with atomic structure.
 
-### 4. [**Library For Climbing addicts**](https://github.com/nyunja/atomic-design/blob/main/Paul_John_DesignSystemLIbrary_01162025_V1.fig)
+### 4. [**Library For Climbing Addicts**](https://github.com/nyunja/atomic-design/blob/main/LibraryForClimbingAddicts_Paul_John.zip)
    - A design project focused on creating a moodbard and a UI componnents library to rebrand a climbing group website.
+
+### 4. [**Library For A Dating App**](https://github.com/nyunja/atomic-design/blob/main/LibraryForDatingApp_Paul_John.zip)
+   - A design project focused on creating a moodbard and a UI componnents library for a dating app.
 
 ## Usage
 
